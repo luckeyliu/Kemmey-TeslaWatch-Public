@@ -211,15 +211,15 @@
 "Dark" = "深色";
 "Auto" = "自动";
 
-"Hide debug" = "Hide debug";
-"Show debug" = "Show debug";
-"Changelog" = "Changelog";
-"Debug" = "Debug";
-"Vehicle" = "Vehicle";
-"Power" = "Power";
-"Drive state" = "Drive state";
-"Range" = "Range";
-"App debug" = "App debug";
-"Background events" = "Background events";
-"Authentication events" = "Authentication events";
-"Clear cache" = "Clear cache";
+"Hide debug" = "隐藏调试信息";
+"Show debug" = "显示调试信息";
+"Changelog" = "版本更新日志";
+"Debug" = "调试";
+"Vehicle" = "车辆信息";
+"Power" = "电池信息";
+"Drive state" = "驾驶状态";
+"Range" = "里程";
+"App debug" = "应用调试";
+"Background events" = "后台事件";
+"Authentication events" = "身份验证事件";
+"Clear cache" = "清除缓存";
